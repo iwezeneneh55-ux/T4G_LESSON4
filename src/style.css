@@ -1,0 +1,11 @@
+#button, #image{
+    text-align: center;
+}
+
+.image{
+  width: 400px;
+}
+
+#image{
+ display: none;
+}
